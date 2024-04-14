@@ -1,6 +1,6 @@
 <template lang="">
     <div>
-        
+        테스트 뷰
     </div>
 </template>
 
